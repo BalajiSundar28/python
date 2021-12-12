@@ -16,9 +16,11 @@ elif m.lower() in ['february']:
 		
 		print('29 days')
 		
-	else:
+        else:
 		
 		print('28 days')
 		
 else:
+
+        print('invalid month name')
 	
